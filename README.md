@@ -36,6 +36,5 @@ Como estudiante de **ITLA** y un apasionado autodidacta, siempre estoy explorand
 * **LinkedIn:** [Ilving Florentino](https://www.linkedin.com/in/ilving-florentino-8766b6337/)
 * **GitHub:** [ilvingflorentino](https://github.com/ilvingflorentino)
 
-[![Ilving's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilvingflorentino&show_icons=true&theme=transparent)](https://github.com/ilvingflorentino/github-readme-stats)
 
 
